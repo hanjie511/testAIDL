@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testAIDL.iml" filepath="$PROJECT_DIR$/.idea/modules/testAIDL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aidlserver/testAIDL.aidlserver.iml" filepath="$PROJECT_DIR$/.idea/modules/aidlserver/testAIDL.aidlserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/testAIDL.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/testAIDL.app.iml" />
+    </modules>
+  </component>
+</project>
